@@ -40,7 +40,7 @@ account, you can follow these steps:
 
 Contributors
 1. Sabrina Davidson
-2. Bhavin Goswami
+2. Bhavin Goswami (bg83710n@pace.edu) 
 3. Harshal Patil
 4. Harsh Patel
 5. Damin Shah
